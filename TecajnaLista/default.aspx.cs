@@ -49,6 +49,8 @@ namespace TecajnaLista
             ddlValuta2.DataTextField = "Valuta";
             ddlValuta2.DataValueField = "Prodajnizadevize";
             ddlValuta2.DataBind();
+
+            //ovo je test
         }
     }
 }
