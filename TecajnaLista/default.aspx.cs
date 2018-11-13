@@ -50,7 +50,7 @@ namespace TecajnaLista
             ddlValuta2.DataValueField = "Prodajnizadevize";
             ddlValuta2.DataBind();
 
-            //ovo je test
+            //ovo je
         }
     }
 }
